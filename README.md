@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## My Github stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=gmaggiodev&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gmaggiodev&theme=transparent&card_width=500)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmaggiodev&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmaggiodev&count_private=true&show_icons=true&theme=transparent&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmaggiodev&layout=compact&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmaggiodev&layout=compact&count_private=true&show_icons=true&theme=transparent&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
